@@ -1,0 +1,7 @@
+C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\wwwroot\images\44800693-e73e-4c3a-a59c-504a613642ad_htmlImage.png
+C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\wwwroot\images\4dea1cc6-85ac-48ef-9f24-268ee8f0bbb9_SQLServerImage.png
+C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\wwwroot\images\754217f2-148e-4f94-9d15-2b297353b879_JavaScriptImage.webp
+C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\wwwroot\images\bc6cc4da-f4bb-4ed6-a595-3001f469c514_ReactImage.webp
+C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\wwwroot\images\cc1312fa-fa61-43f1-9a8a-5b1bd8c15476.jpg
+C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\wwwroot\images\cf7fa347-3772-4a0d-9d26-bff770d5c7f7.jpeg
+C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\wwwroot\images\fc8789e0-219c-4bc7-995b-047847398fac_cssImage.png

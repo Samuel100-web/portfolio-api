@@ -1,0 +1,1258 @@
+{
+  "Version": 1,
+  "Hash": "Ll+F0G5/0K+g6HOTZJTkHJtmc3VliqHcLxAjdtb3OPw=",
+  "Source": "SamuelPortfolioAPI",
+  "BasePath": "_content/SamuelPortfolioAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SamuelPortfolioAPI\\wwwroot",
+      "Source": "SamuelPortfolioAPI",
+      "ContentRoot": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\",
+      "BasePath": "_content/SamuelPortfolioAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\1f3c1f94-b63c-43cf-9b6b-857538901fee_ReactImage.webp",
+      "SourceId": "SamuelPortfolioAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\",
+      "BasePath": "_content/SamuelPortfolioAPI",
+      "RelativePath": "images/1f3c1f94-b63c-43cf-9b6b-857538901fee_ReactImage#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "etbm6ufw33",
+      "Integrity": "riwekO5I7oeUSe7pU0V2MCt7mXC9LgY95jJott6Kreg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1f3c1f94-b63c-43cf-9b6b-857538901fee_ReactImage.webp"
+    },
+    {
+      "Identity": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\44800693-e73e-4c3a-a59c-504a613642ad_htmlImage.png",
+      "SourceId": "SamuelPortfolioAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\",
+      "BasePath": "_content/SamuelPortfolioAPI",
+      "RelativePath": "images/44800693-e73e-4c3a-a59c-504a613642ad_htmlImage#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c01w9bf6ys",
+      "Integrity": "5A3kky6qXwD9WsAINiVhkwB8Vbx6SfuakmjYCkqS9k0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\44800693-e73e-4c3a-a59c-504a613642ad_htmlImage.png"
+    },
+    {
+      "Identity": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\4dea1cc6-85ac-48ef-9f24-268ee8f0bbb9_SQLServerImage.png",
+      "SourceId": "SamuelPortfolioAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\",
+      "BasePath": "_content/SamuelPortfolioAPI",
+      "RelativePath": "images/4dea1cc6-85ac-48ef-9f24-268ee8f0bbb9_SQLServerImage#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w54ucxd8wc",
+      "Integrity": "bA9SFJB/QTWuev5kl+23/usrOYvA126gGTxMNEOV3gk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4dea1cc6-85ac-48ef-9f24-268ee8f0bbb9_SQLServerImage.png"
+    },
+    {
+      "Identity": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\54fb3f2e-a162-42e3-93b2-28b4236c23bd.jpg",
+      "SourceId": "SamuelPortfolioAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\",
+      "BasePath": "_content/SamuelPortfolioAPI",
+      "RelativePath": "images/54fb3f2e-a162-42e3-93b2-28b4236c23bd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "66a4plmw87",
+      "Integrity": "gmYlDeDVSM7DFRg+AdUBpYb6g5z2JPqMKJ5ztVHOAQ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\54fb3f2e-a162-42e3-93b2-28b4236c23bd.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\754217f2-148e-4f94-9d15-2b297353b879_JavaScriptImage.webp",
+      "SourceId": "SamuelPortfolioAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\",
+      "BasePath": "_content/SamuelPortfolioAPI",
+      "RelativePath": "images/754217f2-148e-4f94-9d15-2b297353b879_JavaScriptImage#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kbec1y2f9w",
+      "Integrity": "gBzJcAE662FI7Zi4OHfYflT5XAXfEzNrL706VKycY9s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\754217f2-148e-4f94-9d15-2b297353b879_JavaScriptImage.webp"
+    },
+    {
+      "Identity": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\83b66d15-8176-4320-a43c-7f71671393b1.jpg",
+      "SourceId": "SamuelPortfolioAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\",
+      "BasePath": "_content/SamuelPortfolioAPI",
+      "RelativePath": "images/83b66d15-8176-4320-a43c-7f71671393b1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "inzkxssvnx",
+      "Integrity": "fiJxDxAgDJl1j3qDH0QvYeuog1ZeceWyIGxupJQbIO4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\83b66d15-8176-4320-a43c-7f71671393b1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\9b51b1d0-a1e7-4f4c-9122-128f8abc1bd4.jpg",
+      "SourceId": "SamuelPortfolioAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\",
+      "BasePath": "_content/SamuelPortfolioAPI",
+      "RelativePath": "images/9b51b1d0-a1e7-4f4c-9122-128f8abc1bd4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "inzkxssvnx",
+      "Integrity": "fiJxDxAgDJl1j3qDH0QvYeuog1ZeceWyIGxupJQbIO4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9b51b1d0-a1e7-4f4c-9122-128f8abc1bd4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\bc6cc4da-f4bb-4ed6-a595-3001f469c514_ReactImage.webp",
+      "SourceId": "SamuelPortfolioAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\",
+      "BasePath": "_content/SamuelPortfolioAPI",
+      "RelativePath": "images/bc6cc4da-f4bb-4ed6-a595-3001f469c514_ReactImage#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "etbm6ufw33",
+      "Integrity": "riwekO5I7oeUSe7pU0V2MCt7mXC9LgY95jJott6Kreg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bc6cc4da-f4bb-4ed6-a595-3001f469c514_ReactImage.webp"
+    },
+    {
+      "Identity": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\cc1312fa-fa61-43f1-9a8a-5b1bd8c15476.jpg",
+      "SourceId": "SamuelPortfolioAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\",
+      "BasePath": "_content/SamuelPortfolioAPI",
+      "RelativePath": "images/cc1312fa-fa61-43f1-9a8a-5b1bd8c15476#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fpse6zcjgl",
+      "Integrity": "LcWPHEqsXEa/ZQB5RqfY0bGo4uYc4JkgfajFgXOmNz0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cc1312fa-fa61-43f1-9a8a-5b1bd8c15476.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\cf7fa347-3772-4a0d-9d26-bff770d5c7f7.jpeg",
+      "SourceId": "SamuelPortfolioAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\",
+      "BasePath": "_content/SamuelPortfolioAPI",
+      "RelativePath": "images/cf7fa347-3772-4a0d-9d26-bff770d5c7f7#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2n41hopqjq",
+      "Integrity": "vu4ZLGJi4c5y/5T3esK8CqIvWWL4CgkqPUwRdxbXjFM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cf7fa347-3772-4a0d-9d26-bff770d5c7f7.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\d478daab-0cc5-4330-a8f2-5693196eb86a.jpg",
+      "SourceId": "SamuelPortfolioAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\",
+      "BasePath": "_content/SamuelPortfolioAPI",
+      "RelativePath": "images/d478daab-0cc5-4330-a8f2-5693196eb86a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ivph2kxa2w",
+      "Integrity": "wsA5Gd+G8Ru07rwrCcL3sJTmnauW5N/CLnPHRoSDk7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d478daab-0cc5-4330-a8f2-5693196eb86a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\fc8789e0-219c-4bc7-995b-047847398fac_cssImage.png",
+      "SourceId": "SamuelPortfolioAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\",
+      "BasePath": "_content/SamuelPortfolioAPI",
+      "RelativePath": "images/fc8789e0-219c-4bc7-995b-047847398fac_cssImage#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w8t56yqheb",
+      "Integrity": "UJEbtFKk10xuYFEN+4rmryMyzi3MP2ylAfeGonzG1CE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fc8789e0-219c-4bc7-995b-047847398fac_cssImage.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/1f3c1f94-b63c-43cf-9b6b-857538901fee_ReactImage.etbm6ufw33.webp",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\1f3c1f94-b63c-43cf-9b6b-857538901fee_ReactImage.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"riwekO5I7oeUSe7pU0V2MCt7mXC9LgY95jJott6Kreg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 04:36:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etbm6ufw33"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1f3c1f94-b63c-43cf-9b6b-857538901fee_ReactImage.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-riwekO5I7oeUSe7pU0V2MCt7mXC9LgY95jJott6Kreg="
+        }
+      ]
+    },
+    {
+      "Route": "images/1f3c1f94-b63c-43cf-9b6b-857538901fee_ReactImage.webp",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\1f3c1f94-b63c-43cf-9b6b-857538901fee_ReactImage.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"riwekO5I7oeUSe7pU0V2MCt7mXC9LgY95jJott6Kreg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 04:36:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-riwekO5I7oeUSe7pU0V2MCt7mXC9LgY95jJott6Kreg="
+        }
+      ]
+    },
+    {
+      "Route": "images/44800693-e73e-4c3a-a59c-504a613642ad_htmlImage.c01w9bf6ys.png",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\44800693-e73e-4c3a-a59c-504a613642ad_htmlImage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5A3kky6qXwD9WsAINiVhkwB8Vbx6SfuakmjYCkqS9k0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 09:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c01w9bf6ys"
+        },
+        {
+          "Name": "label",
+          "Value": "images/44800693-e73e-4c3a-a59c-504a613642ad_htmlImage.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5A3kky6qXwD9WsAINiVhkwB8Vbx6SfuakmjYCkqS9k0="
+        }
+      ]
+    },
+    {
+      "Route": "images/44800693-e73e-4c3a-a59c-504a613642ad_htmlImage.png",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\44800693-e73e-4c3a-a59c-504a613642ad_htmlImage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5A3kky6qXwD9WsAINiVhkwB8Vbx6SfuakmjYCkqS9k0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 09:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5A3kky6qXwD9WsAINiVhkwB8Vbx6SfuakmjYCkqS9k0="
+        }
+      ]
+    },
+    {
+      "Route": "images/4dea1cc6-85ac-48ef-9f24-268ee8f0bbb9_SQLServerImage.png",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\4dea1cc6-85ac-48ef-9f24-268ee8f0bbb9_SQLServerImage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bA9SFJB/QTWuev5kl+23/usrOYvA126gGTxMNEOV3gk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 05:46:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bA9SFJB/QTWuev5kl+23/usrOYvA126gGTxMNEOV3gk="
+        }
+      ]
+    },
+    {
+      "Route": "images/4dea1cc6-85ac-48ef-9f24-268ee8f0bbb9_SQLServerImage.w54ucxd8wc.png",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\4dea1cc6-85ac-48ef-9f24-268ee8f0bbb9_SQLServerImage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bA9SFJB/QTWuev5kl+23/usrOYvA126gGTxMNEOV3gk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 05:46:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w54ucxd8wc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4dea1cc6-85ac-48ef-9f24-268ee8f0bbb9_SQLServerImage.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bA9SFJB/QTWuev5kl+23/usrOYvA126gGTxMNEOV3gk="
+        }
+      ]
+    },
+    {
+      "Route": "images/54fb3f2e-a162-42e3-93b2-28b4236c23bd.66a4plmw87.jpg",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\54fb3f2e-a162-42e3-93b2-28b4236c23bd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gmYlDeDVSM7DFRg+AdUBpYb6g5z2JPqMKJ5ztVHOAQ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 06:16:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "66a4plmw87"
+        },
+        {
+          "Name": "label",
+          "Value": "images/54fb3f2e-a162-42e3-93b2-28b4236c23bd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gmYlDeDVSM7DFRg+AdUBpYb6g5z2JPqMKJ5ztVHOAQ8="
+        }
+      ]
+    },
+    {
+      "Route": "images/54fb3f2e-a162-42e3-93b2-28b4236c23bd.jpg",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\54fb3f2e-a162-42e3-93b2-28b4236c23bd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gmYlDeDVSM7DFRg+AdUBpYb6g5z2JPqMKJ5ztVHOAQ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 06:16:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gmYlDeDVSM7DFRg+AdUBpYb6g5z2JPqMKJ5ztVHOAQ8="
+        }
+      ]
+    },
+    {
+      "Route": "images/754217f2-148e-4f94-9d15-2b297353b879_JavaScriptImage.kbec1y2f9w.webp",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\754217f2-148e-4f94-9d15-2b297353b879_JavaScriptImage.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBzJcAE662FI7Zi4OHfYflT5XAXfEzNrL706VKycY9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 09:34:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbec1y2f9w"
+        },
+        {
+          "Name": "label",
+          "Value": "images/754217f2-148e-4f94-9d15-2b297353b879_JavaScriptImage.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBzJcAE662FI7Zi4OHfYflT5XAXfEzNrL706VKycY9s="
+        }
+      ]
+    },
+    {
+      "Route": "images/754217f2-148e-4f94-9d15-2b297353b879_JavaScriptImage.webp",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\754217f2-148e-4f94-9d15-2b297353b879_JavaScriptImage.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBzJcAE662FI7Zi4OHfYflT5XAXfEzNrL706VKycY9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 09:34:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBzJcAE662FI7Zi4OHfYflT5XAXfEzNrL706VKycY9s="
+        }
+      ]
+    },
+    {
+      "Route": "images/83b66d15-8176-4320-a43c-7f71671393b1.inzkxssvnx.jpg",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\83b66d15-8176-4320-a43c-7f71671393b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fiJxDxAgDJl1j3qDH0QvYeuog1ZeceWyIGxupJQbIO4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 08:12:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "inzkxssvnx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/83b66d15-8176-4320-a43c-7f71671393b1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fiJxDxAgDJl1j3qDH0QvYeuog1ZeceWyIGxupJQbIO4="
+        }
+      ]
+    },
+    {
+      "Route": "images/83b66d15-8176-4320-a43c-7f71671393b1.jpg",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\83b66d15-8176-4320-a43c-7f71671393b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fiJxDxAgDJl1j3qDH0QvYeuog1ZeceWyIGxupJQbIO4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 08:12:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fiJxDxAgDJl1j3qDH0QvYeuog1ZeceWyIGxupJQbIO4="
+        }
+      ]
+    },
+    {
+      "Route": "images/9b51b1d0-a1e7-4f4c-9122-128f8abc1bd4.inzkxssvnx.jpg",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\9b51b1d0-a1e7-4f4c-9122-128f8abc1bd4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fiJxDxAgDJl1j3qDH0QvYeuog1ZeceWyIGxupJQbIO4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 05:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "inzkxssvnx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9b51b1d0-a1e7-4f4c-9122-128f8abc1bd4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fiJxDxAgDJl1j3qDH0QvYeuog1ZeceWyIGxupJQbIO4="
+        }
+      ]
+    },
+    {
+      "Route": "images/9b51b1d0-a1e7-4f4c-9122-128f8abc1bd4.jpg",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\9b51b1d0-a1e7-4f4c-9122-128f8abc1bd4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fiJxDxAgDJl1j3qDH0QvYeuog1ZeceWyIGxupJQbIO4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 05:57:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fiJxDxAgDJl1j3qDH0QvYeuog1ZeceWyIGxupJQbIO4="
+        }
+      ]
+    },
+    {
+      "Route": "images/bc6cc4da-f4bb-4ed6-a595-3001f469c514_ReactImage.etbm6ufw33.webp",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\bc6cc4da-f4bb-4ed6-a595-3001f469c514_ReactImage.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"riwekO5I7oeUSe7pU0V2MCt7mXC9LgY95jJott6Kreg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 08:43:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etbm6ufw33"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bc6cc4da-f4bb-4ed6-a595-3001f469c514_ReactImage.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-riwekO5I7oeUSe7pU0V2MCt7mXC9LgY95jJott6Kreg="
+        }
+      ]
+    },
+    {
+      "Route": "images/bc6cc4da-f4bb-4ed6-a595-3001f469c514_ReactImage.webp",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\bc6cc4da-f4bb-4ed6-a595-3001f469c514_ReactImage.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"riwekO5I7oeUSe7pU0V2MCt7mXC9LgY95jJott6Kreg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 08:43:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-riwekO5I7oeUSe7pU0V2MCt7mXC9LgY95jJott6Kreg="
+        }
+      ]
+    },
+    {
+      "Route": "images/cc1312fa-fa61-43f1-9a8a-5b1bd8c15476.fpse6zcjgl.jpg",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\cc1312fa-fa61-43f1-9a8a-5b1bd8c15476.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1100092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LcWPHEqsXEa/ZQB5RqfY0bGo4uYc4JkgfajFgXOmNz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Jul 2025 19:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fpse6zcjgl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cc1312fa-fa61-43f1-9a8a-5b1bd8c15476.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LcWPHEqsXEa/ZQB5RqfY0bGo4uYc4JkgfajFgXOmNz0="
+        }
+      ]
+    },
+    {
+      "Route": "images/cc1312fa-fa61-43f1-9a8a-5b1bd8c15476.jpg",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\cc1312fa-fa61-43f1-9a8a-5b1bd8c15476.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1100092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LcWPHEqsXEa/ZQB5RqfY0bGo4uYc4JkgfajFgXOmNz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Jul 2025 19:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LcWPHEqsXEa/ZQB5RqfY0bGo4uYc4JkgfajFgXOmNz0="
+        }
+      ]
+    },
+    {
+      "Route": "images/cf7fa347-3772-4a0d-9d26-bff770d5c7f7.2n41hopqjq.jpeg",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\cf7fa347-3772-4a0d-9d26-bff770d5c7f7.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6550"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vu4ZLGJi4c5y/5T3esK8CqIvWWL4CgkqPUwRdxbXjFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Jul 2025 22:20:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2n41hopqjq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cf7fa347-3772-4a0d-9d26-bff770d5c7f7.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vu4ZLGJi4c5y/5T3esK8CqIvWWL4CgkqPUwRdxbXjFM="
+        }
+      ]
+    },
+    {
+      "Route": "images/cf7fa347-3772-4a0d-9d26-bff770d5c7f7.jpeg",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\cf7fa347-3772-4a0d-9d26-bff770d5c7f7.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6550"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vu4ZLGJi4c5y/5T3esK8CqIvWWL4CgkqPUwRdxbXjFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Jul 2025 22:20:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vu4ZLGJi4c5y/5T3esK8CqIvWWL4CgkqPUwRdxbXjFM="
+        }
+      ]
+    },
+    {
+      "Route": "images/d478daab-0cc5-4330-a8f2-5693196eb86a.ivph2kxa2w.jpg",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\d478daab-0cc5-4330-a8f2-5693196eb86a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wsA5Gd+G8Ru07rwrCcL3sJTmnauW5N/CLnPHRoSDk7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 06:19:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ivph2kxa2w"
+        },
+        {
+          "Name": "label",
+          "Value": "images/d478daab-0cc5-4330-a8f2-5693196eb86a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wsA5Gd+G8Ru07rwrCcL3sJTmnauW5N/CLnPHRoSDk7k="
+        }
+      ]
+    },
+    {
+      "Route": "images/d478daab-0cc5-4330-a8f2-5693196eb86a.jpg",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\d478daab-0cc5-4330-a8f2-5693196eb86a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wsA5Gd+G8Ru07rwrCcL3sJTmnauW5N/CLnPHRoSDk7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 06:19:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wsA5Gd+G8Ru07rwrCcL3sJTmnauW5N/CLnPHRoSDk7k="
+        }
+      ]
+    },
+    {
+      "Route": "images/fc8789e0-219c-4bc7-995b-047847398fac_cssImage.png",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\fc8789e0-219c-4bc7-995b-047847398fac_cssImage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UJEbtFKk10xuYFEN+4rmryMyzi3MP2ylAfeGonzG1CE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 07:37:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UJEbtFKk10xuYFEN+4rmryMyzi3MP2ylAfeGonzG1CE="
+        }
+      ]
+    },
+    {
+      "Route": "images/fc8789e0-219c-4bc7-995b-047847398fac_cssImage.w8t56yqheb.png",
+      "AssetFile": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\fc8789e0-219c-4bc7-995b-047847398fac_cssImage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UJEbtFKk10xuYFEN+4rmryMyzi3MP2ylAfeGonzG1CE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 07:37:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8t56yqheb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fc8789e0-219c-4bc7-995b-047847398fac_cssImage.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UJEbtFKk10xuYFEN+4rmryMyzi3MP2ylAfeGonzG1CE="
+        }
+      ]
+    }
+  ]
+}

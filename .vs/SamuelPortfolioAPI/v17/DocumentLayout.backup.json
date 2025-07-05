@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF784EF-C882-402B-B0D9-20B55FFAD8A5}|SamuelPortfolioAPI\\SamuelPortfolioAPI.csproj|c:\\users\\kkt\\source\\repos\\samuelportfolioapi\\samuelportfolioapi\\models\\dtos\\teammembersavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF784EF-C882-402B-B0D9-20B55FFAD8A5}|SamuelPortfolioAPI\\SamuelPortfolioAPI.csproj|solutionrelative:samuelportfolioapi\\models\\dtos\\teammembersavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF784EF-C882-402B-B0D9-20B55FFAD8A5}|SamuelPortfolioAPI\\SamuelPortfolioAPI.csproj|c:\\users\\kkt\\source\\repos\\samuelportfolioapi\\samuelportfolioapi\\controllers\\teammemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF784EF-C882-402B-B0D9-20B55FFAD8A5}|SamuelPortfolioAPI\\SamuelPortfolioAPI.csproj|solutionrelative:samuelportfolioapi\\controllers\\teammemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF784EF-C882-402B-B0D9-20B55FFAD8A5}|SamuelPortfolioAPI\\SamuelPortfolioAPI.csproj|c:\\users\\kkt\\source\\repos\\samuelportfolioapi\\samuelportfolioapi\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF784EF-C882-402B-B0D9-20B55FFAD8A5}|SamuelPortfolioAPI\\SamuelPortfolioAPI.csproj|solutionrelative:samuelportfolioapi\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF784EF-C882-402B-B0D9-20B55FFAD8A5}|SamuelPortfolioAPI\\SamuelPortfolioAPI.csproj|c:\\users\\kkt\\source\\repos\\samuelportfolioapi\\samuelportfolioapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF784EF-C882-402B-B0D9-20B55FFAD8A5}|SamuelPortfolioAPI\\SamuelPortfolioAPI.csproj|solutionrelative:samuelportfolioapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamMemberSaveDto.cs",
+              "DocumentMoniker": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\Models\\DTOs\\TeamMemberSaveDto.cs",
+              "RelativeDocumentMoniker": "SamuelPortfolioAPI\\Models\\DTOs\\TeamMemberSaveDto.cs",
+              "ToolTip": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\Models\\DTOs\\TeamMemberSaveDto.cs",
+              "RelativeToolTip": "SamuelPortfolioAPI\\Models\\DTOs\\TeamMemberSaveDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T08:09:01.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\Models\\TeamMember.cs",
+              "RelativeDocumentMoniker": "SamuelPortfolioAPI\\Models\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\Models\\TeamMember.cs",
+              "RelativeToolTip": "SamuelPortfolioAPI\\Models\\TeamMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T08:04:34.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SamuelPortfolioAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SamuelPortfolioAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAABgZmZmZmY0wBUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:21:06.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamMembersController.cs",
+              "DocumentMoniker": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\Controllers\\TeamMembersController.cs",
+              "RelativeDocumentMoniker": "SamuelPortfolioAPI\\Controllers\\TeamMembersController.cs",
+              "ToolTip": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\Controllers\\TeamMembersController.cs",
+              "RelativeToolTip": "SamuelPortfolioAPI\\Controllers\\TeamMembersController.cs",
+              "ViewState": "AgIAAEYAAAAAAQAAAAAYwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:11:11.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

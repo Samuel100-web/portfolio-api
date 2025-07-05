@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\1f3c1f94-b63c-43cf-9b6b-857538901fee_ReactImage.webp",
+      "PackagePath": "staticwebassets\\images\\1f3c1f94-b63c-43cf-9b6b-857538901fee_ReactImage.webp"
+    },
+    {
+      "Id": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\44800693-e73e-4c3a-a59c-504a613642ad_htmlImage.png",
+      "PackagePath": "staticwebassets\\images\\44800693-e73e-4c3a-a59c-504a613642ad_htmlImage.png"
+    },
+    {
+      "Id": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\4dea1cc6-85ac-48ef-9f24-268ee8f0bbb9_SQLServerImage.png",
+      "PackagePath": "staticwebassets\\images\\4dea1cc6-85ac-48ef-9f24-268ee8f0bbb9_SQLServerImage.png"
+    },
+    {
+      "Id": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\54fb3f2e-a162-42e3-93b2-28b4236c23bd.jpg",
+      "PackagePath": "staticwebassets\\images\\54fb3f2e-a162-42e3-93b2-28b4236c23bd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\754217f2-148e-4f94-9d15-2b297353b879_JavaScriptImage.webp",
+      "PackagePath": "staticwebassets\\images\\754217f2-148e-4f94-9d15-2b297353b879_JavaScriptImage.webp"
+    },
+    {
+      "Id": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\83b66d15-8176-4320-a43c-7f71671393b1.jpg",
+      "PackagePath": "staticwebassets\\images\\83b66d15-8176-4320-a43c-7f71671393b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\9b51b1d0-a1e7-4f4c-9122-128f8abc1bd4.jpg",
+      "PackagePath": "staticwebassets\\images\\9b51b1d0-a1e7-4f4c-9122-128f8abc1bd4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\bc6cc4da-f4bb-4ed6-a595-3001f469c514_ReactImage.webp",
+      "PackagePath": "staticwebassets\\images\\bc6cc4da-f4bb-4ed6-a595-3001f469c514_ReactImage.webp"
+    },
+    {
+      "Id": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\cc1312fa-fa61-43f1-9a8a-5b1bd8c15476.jpg",
+      "PackagePath": "staticwebassets\\images\\cc1312fa-fa61-43f1-9a8a-5b1bd8c15476.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\cf7fa347-3772-4a0d-9d26-bff770d5c7f7.jpeg",
+      "PackagePath": "staticwebassets\\images\\cf7fa347-3772-4a0d-9d26-bff770d5c7f7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\d478daab-0cc5-4330-a8f2-5693196eb86a.jpg",
+      "PackagePath": "staticwebassets\\images\\d478daab-0cc5-4330-a8f2-5693196eb86a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kkt\\source\\repos\\SamuelPortfolioAPI\\SamuelPortfolioAPI\\wwwroot\\images\\fc8789e0-219c-4bc7-995b-047847398fac_cssImage.png",
+      "PackagePath": "staticwebassets\\images\\fc8789e0-219c-4bc7-995b-047847398fac_cssImage.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SamuelPortfolioAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SamuelPortfolioAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SamuelPortfolioAPI.props",
+      "PackagePath": "build\\SamuelPortfolioAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SamuelPortfolioAPI.props",
+      "PackagePath": "buildMultiTargeting\\SamuelPortfolioAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SamuelPortfolioAPI.props",
+      "PackagePath": "buildTransitive\\SamuelPortfolioAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
