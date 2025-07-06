@@ -1,5 +1,6 @@
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\bin\Debug\net8.0\SamuelPortfolioAPI.staticwebassets.runtime.json
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\bin\Debug\net8.0\SamuelPortfolioAPI.staticwebassets.endpoints.json
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\bin\Debug\net8.0\SamuelPortfolioAPI.exe
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\bin\Debug\net8.0\SamuelPortfolioAPI.deps.json
@@ -121,6 +122,7 @@ C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\SamuelPortfolioAPI.csproj.CoreCompileInputs.cache
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\SamuelPortfolioAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\SamuelPortfolioAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\SamuelPortfolioAPI.sourcelink.json
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\scopedcss\bundle\SamuelPortfolioAPI.styles.css
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\staticwebassets.development.json
@@ -131,11 +133,9 @@ C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SamuelPortfolioAPI.props
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SamuelPortfolioAPI.props
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\SamuelPo.56837516.Up2Date
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\SamuelPortfolioAPI.dll
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\refint\SamuelPortfolioAPI.dll
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\SamuelPortfolioAPI.pdb
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\SamuelPortfolioAPI.genruntimeconfig.cache
 C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\obj\Debug\net8.0\ref\SamuelPortfolioAPI.dll
-C:\Users\kkt\source\repos\SamuelPortfolioAPI\SamuelPortfolioAPI\bin\Debug\net8.0\SamuelPortfolioAPI.staticwebassets.runtime.json
