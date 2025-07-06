@@ -1,8 +1,8 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
-/bin
-/obj
+/SamuelPortfolioAPI/bin
+/SamuelPortfolioAPI/obj
 # Visual Studio 2019
 # User-specific files
 # User-specific files
@@ -12,3 +12,5 @@
 /SamuelPortfolioAPI/Properties/PublishProfiles
 /SamuelPortfolioAPI/obj/Debug/net6.0
 /SamuelPortfolioAPI/obj/Debug/net8.0/ref/SamuelPortfolioAPI.dll
+/SamuelPortfolioAPI/obj
+/SamuelPortfolioAPI/bin/Debug/net6.0
